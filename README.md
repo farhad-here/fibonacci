@@ -1,5 +1,5 @@
 # 🗃️Fibonacci
-
+!for learning streamlit and fibonacci in python with some small project!
 # UI
 
 ![fib](https://github.com/user-attachments/assets/c977e8df-6d62-4611-b14e-86bdf167cf5f)
